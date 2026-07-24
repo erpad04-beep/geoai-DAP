@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 rasterio
 geopandas
 torch
