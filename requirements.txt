@@ -2,6 +2,8 @@ streamlit
 opencv-python-headless
 rasterio
 geopandas
+shapely
 torch
+ultralytics
 numpy
 pandas
