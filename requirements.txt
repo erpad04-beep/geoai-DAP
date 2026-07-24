@@ -1,4 +1,7 @@
 streamlit
 opencv-python
+rasterio
+geopandas
+torch
 numpy
 pandas
